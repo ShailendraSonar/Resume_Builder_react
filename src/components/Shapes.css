@@ -1,0 +1,11 @@
+.triangle {
+    width: 0px;
+    height: 0px;
+    border-style: solid;
+    border-width: 0 23px 45.6px 26px;
+    border-color: transparent transparent #120503 transparent;
+    transform: rotate(27deg);
+    position: relative;
+    top: 30%;
+    left: 10%;
+ }

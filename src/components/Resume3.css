@@ -1,0 +1,27 @@
+.resume_3 h3{
+    font-size: 12px;
+}
+.resume_3 h1{
+    font-size: 20px;
+}
+table{
+    display: block;
+}
+table th,td{
+    padding: 10px 50px;
+    
+}
+table tr{
+    border-width: 2px !important;
+}
+table th{
+    background-color: #80808078;    
+}
+.coll{
+    background-color: #80808078;
+    padding: 10px 10px;
+}
+/* .center{
+    margin-left: auto !important;
+    margin-right: auto !important;
+  } */

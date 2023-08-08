@@ -1,0 +1,81 @@
+.rows{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.header a{
+    color: black;
+}
+.rows>div{
+    padding: 0px 10px;
+}
+/* hr{
+    background-color: black; height: 3px !important; border: 0;
+    
+} */
+.hrr{
+    display: block;
+    height: 3px !important;
+    background: transparent;
+    width: 100%;
+    border: 0;
+    border-top: solid 3px black;
+}
+.rowEx{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.rowSkill,.rowAward{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.d-inline-block{
+    display: inline-block;
+}
+.allHeading{
+    position: relative;
+    top: 15px;
+}
+.awards span{
+    padding: 0px 5px;
+}
+.skills span{
+    padding: 0px 5px;
+}
+
+.sectiontitle{
+    font-size: 22px !important;
+}
+.regularText{
+    font-size: 12px !important;
+    
+}
+.sectonTitle_1{
+    font-size: 14px;
+   
+    
+}
+.sectonTitle_2{
+    font-size: 16px;
+    font-weight: bold;
+}
+p{
+    margin-bottom: 0rem !important;
+}
+.skillOk{
+    position: relative;
+    top: 4px;
+}
+
+
+.forPrint{
+    background-color: white;
+    padding: 19px 40px;
+    border: solid;
+    /* height: 150vh; */
+}
+.sizeT{
+    padding: 0px 170px;
+}
